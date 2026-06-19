@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-label="Обложка книги 451 градус по Фаренгейту">
+  <rect width="900" height="1200" fill="#fff3cd"/>
+  <rect x="80" y="90" width="740" height="1020" rx="36" fill="#212529"/>
+  <path d="M450 210c85 120 55 210-18 292 130-56 230 50 230 185 0 143-101 253-212 253S238 830 238 687c0-112 62-200 156-225-35-95-20-174 56-252z" fill="#dc3545"/>
+  <path d="M450 535c54 78 28 132-14 182 78-36 139 30 139 110 0 86-61 153-125 153s-125-67-125-153c0-67 38-121 95-136-21-57-12-104 30-156z" fill="#ffc107"/>
+  <text x="450" y="1030" text-anchor="middle" font-family="Arial, sans-serif" font-size="92" font-weight="700" fill="#ffffff">451°F</text>
+</svg>
+
